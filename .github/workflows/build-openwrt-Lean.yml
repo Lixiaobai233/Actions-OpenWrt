@@ -10,7 +10,7 @@ name: build-openwrt-Lean
 
 on:
 # release:
-#   types: published
+#   types: start
 # push:
 #   branches:
 #     - master
